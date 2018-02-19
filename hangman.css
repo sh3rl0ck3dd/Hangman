@@ -1,0 +1,87 @@
+  body{
+    margin-top: 30px;
+  }
+
+  .jumbotron{
+    padding-top: 0px;
+    color: #005A31;
+    background: #CBE32D;
+    min-height: 150px;
+    max-height: 150px;
+  }
+
+  #heading{
+    margin-left: 30%;
+  }
+
+  #heading-l{
+    margin-left: 8%;
+  }
+
+  .max{
+    background-color: #005A31;
+    color :#CBE32D;
+  }
+
+  .glyphicon-object-align-horizontal{
+    transform: rotate(90deg);
+  }
+
+  #sticky-box{
+    background:#CBE32D;
+    height:67%;
+    padding-top: 100px;
+    padding-left: 30px;
+    width: 100%;
+  }
+
+
+  #question-box{
+    
+    vertical-align: center;
+    text-align: center;
+    color: #005A31;
+    font-size: 40px;
+    background:#F3FAB6;
+    height:20%;
+    width: 100%;
+    padding-top: 25px;
+
+  }
+
+  #answer-box{
+    background:#F3FAB6;
+    padding-top: 25px;
+    vertical-align: center;
+    text-align: center;
+    color: #005A31;
+    font-size: 40px;
+    height:20%;
+    width: 100%;
+  }
+
+  #keys-box{
+    padding-left: 10%;
+    padding-top: 2.5%;
+    padding-right: 11%;
+    font-size: 30px;
+    background:#F3FAB6;
+    height:20%;
+    width: 100%;
+  }
+
+  #first-row{
+    width: 650px;
+  }
+
+  #alphabet li {
+    float:left;
+    margin: 0 10px 10px 0;
+    list-style:none;
+    width:35px;
+    height:30px;
+    padding-top:10px;
+    text-align: center;
+    color:#005A31;
+    cursor:pointer; 
+  }
